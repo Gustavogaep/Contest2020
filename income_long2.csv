@@ -1,0 +1,451 @@
+NOMBDEP,FIRST_IDDP,Etario,Cantidad_Esperada,Cantidad_Realizada,Porcentaje,Measure
+AMAZONAS,1,Early childhood,20,9,45,Meetings for education
+ANCASH,2,Early childhood,6,5,83.3,Meetings for education
+APURIMAC,3,Early childhood,17,12,70.6,Meetings for education
+AREQUIPA,4,Early childhood,3,3,100,Meetings for education
+AYACUCHO,5,Early childhood,18,9,50,Meetings for education
+CAJAMARCA,6,Early childhood,5,3,60,Meetings for education
+CALLAO,7,Early childhood,7,2,28.6,Meetings for education
+CUSCO,8,Early childhood,16,8,50,Meetings for education
+HUANCAVELICA,9,Early childhood,18,10,55.6,Meetings for education
+HUANUCO,10,Early childhood,3,2,66.7,Meetings for education
+ICA,11,Early childhood,20,11,55,Meetings for education
+JUNIN,12,Early childhood,13,10,76.9,Meetings for education
+LA LIBERTAD,13,Early childhood,16,12,75,Meetings for education
+LAMBAYEQUE,14,Early childhood,9,7,77.8,Meetings for education
+LIMA,15,Early childhood,7,1,14.3,Meetings for education
+LORETO,16,Early childhood,14,12,85.7,Meetings for education
+MADRE DE DIOS,17,Early childhood,15,5,33.3,Meetings for education
+MOQUEGUA,18,Early childhood,9,6,66.7,Meetings for education
+PASCO,19,Early childhood,9,4,44.4,Meetings for education
+PIURA,20,Early childhood,8,2,25,Meetings for education
+PUNO,21,Early childhood,1,1,100,Meetings for education
+SAN MARTIN,22,Early childhood,17,11,64.7,Meetings for education
+TACNA,23,Early childhood,10,7,70,Meetings for education
+TUMBES,24,Early childhood,1,1,100,Meetings for education
+UCAYALI,25,Early childhood,5,3,60,Meetings for education
+AMAZONAS,1,Early childhood,1,1,100,Dialogues for education
+ANCASH,2,Early childhood,5,2,40,Dialogues for education
+APURIMAC,3,Early childhood,7,2,28.6,Dialogues for education
+AREQUIPA,4,Early childhood,2,1,50,Dialogues for education
+AYACUCHO,5,Early childhood,5,1,20,Dialogues for education
+CAJAMARCA,6,Early childhood,2,1,50,Dialogues for education
+CALLAO,7,Early childhood,2,2,100,Dialogues for education
+CUSCO,8,Early childhood,7,7,100,Dialogues for education
+HUANCAVELICA,9,Early childhood,9,6,66.7,Dialogues for education
+HUANUCO,10,Early childhood,3,3,100,Dialogues for education
+ICA,11,Early childhood,4,1,25,Dialogues for education
+JUNIN,12,Early childhood,2,1,50,Dialogues for education
+LA LIBERTAD,13,Early childhood,4,3,75,Dialogues for education
+LAMBAYEQUE,14,Early childhood,7,5,71.4,Dialogues for education
+LIMA,15,Early childhood,1,1,100,Dialogues for education
+LORETO,16,Early childhood,2,2,100,Dialogues for education
+MADRE DE DIOS,17,Early childhood,6,6,100,Dialogues for education
+MOQUEGUA,18,Early childhood,8,5,62.5,Dialogues for education
+PASCO,19,Early childhood,8,6,75,Dialogues for education
+PIURA,20,Early childhood,4,4,100,Dialogues for education
+PUNO,21,Early childhood,4,1,25,Dialogues for education
+SAN MARTIN,22,Early childhood,7,1,14.3,Dialogues for education
+TACNA,23,Early childhood,6,5,83.3,Dialogues for education
+TUMBES,24,Early childhood,9,1,11.1,Dialogues for education
+UCAYALI,25,Early childhood,6,3,50,Dialogues for education
+AMAZONAS,1,Early childhood,452,257,56.9,Citizen survey
+ANCASH,2,Early childhood,113,19,16.8,Citizen survey
+APURIMAC,3,Early childhood,12,10,83.3,Citizen survey
+AREQUIPA,4,Early childhood,362,92,25.4,Citizen survey
+AYACUCHO,5,Early childhood,220,51,23.2,Citizen survey
+CAJAMARCA,6,Early childhood,136,90,66.2,Citizen survey
+CALLAO,7,Early childhood,85,40,47.1,Citizen survey
+CUSCO,8,Early childhood,37,31,83.8,Citizen survey
+HUANCAVELICA,9,Early childhood,174,55,31.6,Citizen survey
+HUANUCO,10,Early childhood,257,84,32.7,Citizen survey
+ICA,11,Early childhood,117,31,26.5,Citizen survey
+JUNIN,12,Early childhood,150,83,55.3,Citizen survey
+LA LIBERTAD,13,Early childhood,108,47,43.5,Citizen survey
+LAMBAYEQUE,14,Early childhood,43,12,27.9,Citizen survey
+LIMA,15,Early childhood,499,128,25.7,Citizen survey
+LORETO,16,Early childhood,418,182,43.5,Citizen survey
+MADRE DE DIOS,17,Early childhood,205,154,75.1,Citizen survey
+MOQUEGUA,18,Early childhood,74,55,74.3,Citizen survey
+PASCO,19,Early childhood,383,379,99,Citizen survey
+PIURA,20,Early childhood,124,106,85.5,Citizen survey
+PUNO,21,Early childhood,249,206,82.7,Citizen survey
+SAN MARTIN,22,Early childhood,17,2,11.8,Citizen survey
+TACNA,23,Early childhood,102,91,89.2,Citizen survey
+TUMBES,24,Early childhood,188,107,56.9,Citizen survey
+UCAYALI,25,Early childhood,104,40,38.5,Citizen survey
+AMAZONAS,1,Childhood,1,1,100,Meetings for education
+ANCASH,2,Childhood,19,19,100,Meetings for education
+APURIMAC,3,Childhood,20,9,45,Meetings for education
+AREQUIPA,4,Childhood,5,4,80,Meetings for education
+AYACUCHO,5,Childhood,1,1,100,Meetings for education
+CAJAMARCA,6,Childhood,12,7,58.3,Meetings for education
+CALLAO,7,Childhood,6,3,50,Meetings for education
+CUSCO,8,Childhood,17,17,100,Meetings for education
+HUANCAVELICA,9,Childhood,3,1,33.3,Meetings for education
+HUANUCO,10,Childhood,2,2,100,Meetings for education
+ICA,11,Childhood,2,2,100,Meetings for education
+JUNIN,12,Childhood,8,7,87.5,Meetings for education
+LA LIBERTAD,13,Childhood,7,2,28.6,Meetings for education
+LAMBAYEQUE,14,Childhood,2,1,50,Meetings for education
+LIMA,15,Childhood,14,13,92.9,Meetings for education
+LORETO,16,Childhood,3,3,100,Meetings for education
+MADRE DE DIOS,17,Childhood,11,1,9.1,Meetings for education
+MOQUEGUA,18,Childhood,15,5,33.3,Meetings for education
+PASCO,19,Childhood,7,2,28.6,Meetings for education
+PIURA,20,Childhood,13,9,69.2,Meetings for education
+PUNO,21,Childhood,9,2,22.2,Meetings for education
+SAN MARTIN,22,Childhood,20,20,100,Meetings for education
+TACNA,23,Childhood,2,1,50,Meetings for education
+TUMBES,24,Childhood,18,11,61.1,Meetings for education
+UCAYALI,25,Childhood,10,9,90,Meetings for education
+AMAZONAS,1,Childhood,10,9,90,Dialogues for education
+ANCASH,2,Childhood,3,1,33.3,Dialogues for education
+APURIMAC,3,Childhood,7,6,85.7,Dialogues for education
+AREQUIPA,4,Childhood,5,3,60,Dialogues for education
+AYACUCHO,5,Childhood,4,3,75,Dialogues for education
+CAJAMARCA,6,Childhood,8,3,37.5,Dialogues for education
+CALLAO,7,Childhood,10,6,60,Dialogues for education
+CUSCO,8,Childhood,9,3,33.3,Dialogues for education
+HUANCAVELICA,9,Childhood,5,3,60,Dialogues for education
+HUANUCO,10,Childhood,1,1,100,Dialogues for education
+ICA,11,Childhood,7,5,71.4,Dialogues for education
+JUNIN,12,Childhood,9,2,22.2,Dialogues for education
+LA LIBERTAD,13,Childhood,1,1,100,Dialogues for education
+LAMBAYEQUE,14,Childhood,1,1,100,Dialogues for education
+LIMA,15,Childhood,6,1,16.7,Dialogues for education
+LORETO,16,Childhood,6,6,100,Dialogues for education
+MADRE DE DIOS,17,Childhood,7,4,57.1,Dialogues for education
+MOQUEGUA,18,Childhood,7,2,28.6,Dialogues for education
+PASCO,19,Childhood,9,9,100,Dialogues for education
+PIURA,20,Childhood,4,2,50,Dialogues for education
+PUNO,21,Childhood,6,3,50,Dialogues for education
+SAN MARTIN,22,Childhood,4,4,100,Dialogues for education
+TACNA,23,Childhood,7,4,57.1,Dialogues for education
+TUMBES,24,Childhood,3,2,66.7,Dialogues for education
+UCAYALI,25,Childhood,10,10,100,Dialogues for education
+AMAZONAS,1,Childhood,118,111,94.1,Citizen survey
+ANCASH,2,Childhood,445,202,45.4,Citizen survey
+APURIMAC,3,Childhood,300,99,33,Citizen survey
+AREQUIPA,4,Childhood,56,48,85.7,Citizen survey
+AYACUCHO,5,Childhood,412,241,58.5,Citizen survey
+CAJAMARCA,6,Childhood,113,40,35.4,Citizen survey
+CALLAO,7,Childhood,226,158,69.9,Citizen survey
+CUSCO,8,Childhood,124,103,83.1,Citizen survey
+HUANCAVELICA,9,Childhood,313,132,42.2,Citizen survey
+HUANUCO,10,Childhood,71,44,62,Citizen survey
+ICA,11,Childhood,248,241,97.2,Citizen survey
+JUNIN,12,Childhood,71,64,90.1,Citizen survey
+LA LIBERTAD,13,Childhood,364,331,90.9,Citizen survey
+LAMBAYEQUE,14,Childhood,271,149,55,Citizen survey
+LIMA,15,Childhood,37,1,2.7,Citizen survey
+LORETO,16,Childhood,11,9,81.8,Citizen survey
+MADRE DE DIOS,17,Childhood,363,228,62.8,Citizen survey
+MOQUEGUA,18,Childhood,379,361,95.3,Citizen survey
+PASCO,19,Childhood,221,213,96.4,Citizen survey
+PIURA,20,Childhood,357,62,17.4,Citizen survey
+PUNO,21,Childhood,490,96,19.6,Citizen survey
+SAN MARTIN,22,Childhood,30,30,100,Citizen survey
+TACNA,23,Childhood,214,132,61.7,Citizen survey
+TUMBES,24,Childhood,354,284,80.2,Citizen survey
+UCAYALI,25,Childhood,228,34,14.9,Citizen survey
+AMAZONAS,1,Teenagers,1,1,100,Meetings for education
+ANCASH,2,Teenagers,16,16,100,Meetings for education
+APURIMAC,3,Teenagers,14,6,42.9,Meetings for education
+AREQUIPA,4,Teenagers,12,3,25,Meetings for education
+AYACUCHO,5,Teenagers,6,6,100,Meetings for education
+CAJAMARCA,6,Teenagers,14,4,28.6,Meetings for education
+CALLAO,7,Teenagers,5,2,40,Meetings for education
+CUSCO,8,Teenagers,13,13,100,Meetings for education
+HUANCAVELICA,9,Teenagers,2,1,50,Meetings for education
+HUANUCO,10,Teenagers,14,1,7.1,Meetings for education
+ICA,11,Teenagers,19,13,68.4,Meetings for education
+JUNIN,12,Teenagers,4,1,25,Meetings for education
+LA LIBERTAD,13,Teenagers,16,5,31.3,Meetings for education
+LAMBAYEQUE,14,Teenagers,10,8,80,Meetings for education
+LIMA,15,Teenagers,9,3,33.3,Meetings for education
+LORETO,16,Teenagers,5,4,80,Meetings for education
+MADRE DE DIOS,17,Teenagers,8,3,37.5,Meetings for education
+MOQUEGUA,18,Teenagers,17,16,94.1,Meetings for education
+PASCO,19,Teenagers,14,10,71.4,Meetings for education
+PIURA,20,Teenagers,19,4,21.1,Meetings for education
+PUNO,21,Teenagers,5,5,100,Meetings for education
+SAN MARTIN,22,Teenagers,11,2,18.2,Meetings for education
+TACNA,23,Teenagers,5,3,60,Meetings for education
+TUMBES,24,Teenagers,16,6,37.5,Meetings for education
+UCAYALI,25,Teenagers,5,2,40,Meetings for education
+AMAZONAS,1,Teenagers,6,2,33.3,Dialogues for education
+ANCASH,2,Teenagers,2,1,50,Dialogues for education
+APURIMAC,3,Teenagers,10,10,100,Dialogues for education
+AREQUIPA,4,Teenagers,4,4,100,Dialogues for education
+AYACUCHO,5,Teenagers,2,2,100,Dialogues for education
+CAJAMARCA,6,Teenagers,4,2,50,Dialogues for education
+CALLAO,7,Teenagers,3,1,33.3,Dialogues for education
+CUSCO,8,Teenagers,7,7,100,Dialogues for education
+HUANCAVELICA,9,Teenagers,3,3,100,Dialogues for education
+HUANUCO,10,Teenagers,7,5,71.4,Dialogues for education
+ICA,11,Teenagers,4,1,25,Dialogues for education
+JUNIN,12,Teenagers,6,2,33.3,Dialogues for education
+LA LIBERTAD,13,Teenagers,4,2,50,Dialogues for education
+LAMBAYEQUE,14,Teenagers,3,1,33.3,Dialogues for education
+LIMA,15,Teenagers,2,1,50,Dialogues for education
+LORETO,16,Teenagers,4,3,75,Dialogues for education
+MADRE DE DIOS,17,Teenagers,5,5,100,Dialogues for education
+MOQUEGUA,18,Teenagers,8,6,75,Dialogues for education
+PASCO,19,Teenagers,4,1,25,Dialogues for education
+PIURA,20,Teenagers,1,1,100,Dialogues for education
+PUNO,21,Teenagers,10,5,50,Dialogues for education
+SAN MARTIN,22,Teenagers,2,1,50,Dialogues for education
+TACNA,23,Teenagers,7,2,28.6,Dialogues for education
+TUMBES,24,Teenagers,2,2,100,Dialogues for education
+UCAYALI,25,Teenagers,10,3,30,Dialogues for education
+AMAZONAS,1,Teenagers,97,86,88.7,Citizen survey
+ANCASH,2,Teenagers,256,184,71.9,Citizen survey
+APURIMAC,3,Teenagers,129,90,69.8,Citizen survey
+AREQUIPA,4,Teenagers,8,2,25,Citizen survey
+AYACUCHO,5,Teenagers,51,16,31.4,Citizen survey
+CAJAMARCA,6,Teenagers,96,88,91.7,Citizen survey
+CALLAO,7,Teenagers,250,83,33.2,Citizen survey
+CUSCO,8,Teenagers,163,15,9.2,Citizen survey
+HUANCAVELICA,9,Teenagers,419,340,81.1,Citizen survey
+HUANUCO,10,Teenagers,149,40,26.8,Citizen survey
+ICA,11,Teenagers,292,39,13.4,Citizen survey
+JUNIN,12,Teenagers,104,57,54.8,Citizen survey
+LA LIBERTAD,13,Teenagers,26,18,69.2,Citizen survey
+LAMBAYEQUE,14,Teenagers,390,286,73.3,Citizen survey
+LIMA,15,Teenagers,234,31,13.2,Citizen survey
+LORETO,16,Teenagers,254,127,50,Citizen survey
+MADRE DE DIOS,17,Teenagers,136,54,39.7,Citizen survey
+MOQUEGUA,18,Teenagers,348,305,87.6,Citizen survey
+PASCO,19,Teenagers,1,1,100,Citizen survey
+PIURA,20,Teenagers,218,203,93.1,Citizen survey
+PUNO,21,Teenagers,436,72,16.5,Citizen survey
+SAN MARTIN,22,Teenagers,162,20,12.3,Citizen survey
+TACNA,23,Teenagers,81,31,38.3,Citizen survey
+TUMBES,24,Teenagers,346,163,47.1,Citizen survey
+UCAYALI,25,Teenagers,219,108,49.3,Citizen survey
+AMAZONAS,1,Young boys,9,3,33.3,Meetings for education
+ANCASH,2,Young boys,4,2,50,Meetings for education
+APURIMAC,3,Young boys,5,5,100,Meetings for education
+AREQUIPA,4,Young boys,13,5,38.5,Meetings for education
+AYACUCHO,5,Young boys,7,3,42.9,Meetings for education
+CAJAMARCA,6,Young boys,2,1,50,Meetings for education
+CALLAO,7,Young boys,18,10,55.6,Meetings for education
+CUSCO,8,Young boys,10,2,20,Meetings for education
+HUANCAVELICA,9,Young boys,2,2,100,Meetings for education
+HUANUCO,10,Young boys,20,10,50,Meetings for education
+ICA,11,Young boys,10,4,40,Meetings for education
+JUNIN,12,Young boys,15,11,73.3,Meetings for education
+LA LIBERTAD,13,Young boys,10,1,10,Meetings for education
+LAMBAYEQUE,14,Young boys,13,8,61.5,Meetings for education
+LIMA,15,Young boys,18,4,22.2,Meetings for education
+LORETO,16,Young boys,19,14,73.7,Meetings for education
+MADRE DE DIOS,17,Young boys,9,5,55.6,Meetings for education
+MOQUEGUA,18,Young boys,17,9,52.9,Meetings for education
+PASCO,19,Young boys,1,1,100,Meetings for education
+PIURA,20,Young boys,6,4,66.7,Meetings for education
+PUNO,21,Young boys,17,10,58.8,Meetings for education
+SAN MARTIN,22,Young boys,4,4,100,Meetings for education
+TACNA,23,Young boys,5,2,40,Meetings for education
+TUMBES,24,Young boys,11,6,54.5,Meetings for education
+UCAYALI,25,Young boys,12,12,100,Meetings for education
+AMAZONAS,1,Young boys,5,5,100,Dialogues for education
+ANCASH,2,Young boys,7,5,71.4,Dialogues for education
+APURIMAC,3,Young boys,6,2,33.3,Dialogues for education
+AREQUIPA,4,Young boys,2,1,50,Dialogues for education
+AYACUCHO,5,Young boys,2,2,100,Dialogues for education
+CAJAMARCA,6,Young boys,5,1,20,Dialogues for education
+CALLAO,7,Young boys,3,1,33.3,Dialogues for education
+CUSCO,8,Young boys,3,1,33.3,Dialogues for education
+HUANCAVELICA,9,Young boys,3,3,100,Dialogues for education
+HUANUCO,10,Young boys,3,2,66.7,Dialogues for education
+ICA,11,Young boys,6,2,33.3,Dialogues for education
+JUNIN,12,Young boys,8,7,87.5,Dialogues for education
+LA LIBERTAD,13,Young boys,4,4,100,Dialogues for education
+LAMBAYEQUE,14,Young boys,2,1,50,Dialogues for education
+LIMA,15,Young boys,3,3,100,Dialogues for education
+LORETO,16,Young boys,10,8,80,Dialogues for education
+MADRE DE DIOS,17,Young boys,1,1,100,Dialogues for education
+MOQUEGUA,18,Young boys,5,5,100,Dialogues for education
+PASCO,19,Young boys,9,9,100,Dialogues for education
+PIURA,20,Young boys,5,2,40,Dialogues for education
+PUNO,21,Young boys,5,1,20,Dialogues for education
+SAN MARTIN,22,Young boys,6,4,66.7,Dialogues for education
+TACNA,23,Young boys,4,4,100,Dialogues for education
+TUMBES,24,Young boys,8,1,12.5,Dialogues for education
+UCAYALI,25,Young boys,2,1,50,Dialogues for education
+AMAZONAS,1,Young boys,391,194,49.6,Citizen survey
+ANCASH,2,Young boys,488,143,29.3,Citizen survey
+APURIMAC,3,Young boys,368,360,97.8,Citizen survey
+AREQUIPA,4,Young boys,373,247,66.2,Citizen survey
+AYACUCHO,5,Young boys,175,143,81.7,Citizen survey
+CAJAMARCA,6,Young boys,106,6,5.7,Citizen survey
+CALLAO,7,Young boys,175,67,38.3,Citizen survey
+CUSCO,8,Young boys,130,13,10,Citizen survey
+HUANCAVELICA,9,Young boys,164,148,90.2,Citizen survey
+HUANUCO,10,Young boys,362,242,66.9,Citizen survey
+ICA,11,Young boys,364,335,92,Citizen survey
+JUNIN,12,Young boys,492,135,27.4,Citizen survey
+LA LIBERTAD,13,Young boys,331,16,4.8,Citizen survey
+LAMBAYEQUE,14,Young boys,77,53,68.8,Citizen survey
+LIMA,15,Young boys,217,27,12.4,Citizen survey
+LORETO,16,Young boys,155,149,96.1,Citizen survey
+MADRE DE DIOS,17,Young boys,180,140,77.8,Citizen survey
+MOQUEGUA,18,Young boys,409,299,73.1,Citizen survey
+PASCO,19,Young boys,491,468,95.3,Citizen survey
+PIURA,20,Young boys,289,223,77.2,Citizen survey
+PUNO,21,Young boys,358,104,29.1,Citizen survey
+SAN MARTIN,22,Young boys,18,13,72.2,Citizen survey
+TACNA,23,Young boys,284,152,53.5,Citizen survey
+TUMBES,24,Young boys,218,173,79.4,Citizen survey
+UCAYALI,25,Young boys,126,28,22.2,Citizen survey
+AMAZONAS,1,Adults,11,6,54.5,Meetings for education
+ANCASH,2,Adults,10,10,100,Meetings for education
+APURIMAC,3,Adults,18,11,61.1,Meetings for education
+AREQUIPA,4,Adults,9,7,77.8,Meetings for education
+AYACUCHO,5,Adults,16,8,50,Meetings for education
+CAJAMARCA,6,Adults,5,3,60,Meetings for education
+CALLAO,7,Adults,9,9,100,Meetings for education
+CUSCO,8,Adults,16,2,12.5,Meetings for education
+HUANCAVELICA,9,Adults,4,2,50,Meetings for education
+HUANUCO,10,Adults,3,3,100,Meetings for education
+ICA,11,Adults,8,1,12.5,Meetings for education
+JUNIN,12,Adults,5,4,80,Meetings for education
+LA LIBERTAD,13,Adults,15,10,66.7,Meetings for education
+LAMBAYEQUE,14,Adults,5,5,100,Meetings for education
+LIMA,15,Adults,16,15,93.8,Meetings for education
+LORETO,16,Adults,5,1,20,Meetings for education
+MADRE DE DIOS,17,Adults,6,2,33.3,Meetings for education
+MOQUEGUA,18,Adults,19,13,68.4,Meetings for education
+PASCO,19,Adults,4,3,75,Meetings for education
+PIURA,20,Adults,19,13,68.4,Meetings for education
+PUNO,21,Adults,17,13,76.5,Meetings for education
+SAN MARTIN,22,Adults,1,1,100,Meetings for education
+TACNA,23,Adults,1,1,100,Meetings for education
+TUMBES,24,Adults,7,6,85.7,Meetings for education
+UCAYALI,25,Adults,1,1,100,Meetings for education
+AMAZONAS,1,Adults,6,3,50,Dialogues for education
+ANCASH,2,Adults,8,8,100,Dialogues for education
+APURIMAC,3,Adults,7,5,71.4,Dialogues for education
+AREQUIPA,4,Adults,9,9,100,Dialogues for education
+AYACUCHO,5,Adults,5,1,20,Dialogues for education
+CAJAMARCA,6,Adults,5,4,80,Dialogues for education
+CALLAO,7,Adults,6,3,50,Dialogues for education
+CUSCO,8,Adults,5,2,40,Dialogues for education
+HUANCAVELICA,9,Adults,8,2,25,Dialogues for education
+HUANUCO,10,Adults,4,1,25,Dialogues for education
+ICA,11,Adults,7,5,71.4,Dialogues for education
+JUNIN,12,Adults,3,3,100,Dialogues for education
+LA LIBERTAD,13,Adults,7,7,100,Dialogues for education
+LAMBAYEQUE,14,Adults,10,7,70,Dialogues for education
+LIMA,15,Adults,5,1,20,Dialogues for education
+LORETO,16,Adults,9,4,44.4,Dialogues for education
+MADRE DE DIOS,17,Adults,7,5,71.4,Dialogues for education
+MOQUEGUA,18,Adults,4,4,100,Dialogues for education
+PASCO,19,Adults,3,3,100,Dialogues for education
+PIURA,20,Adults,7,2,28.6,Dialogues for education
+PUNO,21,Adults,3,3,100,Dialogues for education
+SAN MARTIN,22,Adults,7,1,14.3,Dialogues for education
+TACNA,23,Adults,1,1,100,Dialogues for education
+TUMBES,24,Adults,6,4,66.7,Dialogues for education
+UCAYALI,25,Adults,8,7,87.5,Dialogues for education
+AMAZONAS,1,Adults,439,152,34.6,Citizen survey
+ANCASH,2,Adults,486,312,64.2,Citizen survey
+APURIMAC,3,Adults,72,19,26.4,Citizen survey
+AREQUIPA,4,Adults,435,376,86.4,Citizen survey
+AYACUCHO,5,Adults,216,203,94,Citizen survey
+CAJAMARCA,6,Adults,36,2,5.6,Citizen survey
+CALLAO,7,Adults,89,37,41.6,Citizen survey
+CUSCO,8,Adults,217,44,20.3,Citizen survey
+HUANCAVELICA,9,Adults,311,39,12.5,Citizen survey
+HUANUCO,10,Adults,85,35,41.2,Citizen survey
+ICA,11,Adults,152,11,7.2,Citizen survey
+JUNIN,12,Adults,199,192,96.5,Citizen survey
+LA LIBERTAD,13,Adults,61,17,27.9,Citizen survey
+LAMBAYEQUE,14,Adults,396,23,5.8,Citizen survey
+LIMA,15,Adults,158,93,58.9,Citizen survey
+LORETO,16,Adults,338,217,64.2,Citizen survey
+MADRE DE DIOS,17,Adults,93,40,43,Citizen survey
+MOQUEGUA,18,Adults,16,2,12.5,Citizen survey
+PASCO,19,Adults,478,196,41,Citizen survey
+PIURA,20,Adults,208,9,4.3,Citizen survey
+PUNO,21,Adults,443,313,70.7,Citizen survey
+SAN MARTIN,22,Adults,480,435,90.6,Citizen survey
+TACNA,23,Adults,113,88,77.9,Citizen survey
+TUMBES,24,Adults,150,83,55.3,Citizen survey
+UCAYALI,25,Adults,240,81,33.8,Citizen survey
+AMAZONAS,1,Elderly,7,3,42.9,Meetings for education
+ANCASH,2,Elderly,9,4,44.4,Meetings for education
+APURIMAC,3,Elderly,16,5,31.3,Meetings for education
+AREQUIPA,4,Elderly,19,18,94.7,Meetings for education
+AYACUCHO,5,Elderly,4,3,75,Meetings for education
+CAJAMARCA,6,Elderly,20,6,30,Meetings for education
+CALLAO,7,Elderly,13,10,76.9,Meetings for education
+CUSCO,8,Elderly,12,3,25,Meetings for education
+HUANCAVELICA,9,Elderly,5,1,20,Meetings for education
+HUANUCO,10,Elderly,8,3,37.5,Meetings for education
+ICA,11,Elderly,11,9,81.8,Meetings for education
+JUNIN,12,Elderly,3,2,66.7,Meetings for education
+LA LIBERTAD,13,Elderly,11,9,81.8,Meetings for education
+LAMBAYEQUE,14,Elderly,20,14,70,Meetings for education
+LIMA,15,Elderly,13,1,7.7,Meetings for education
+LORETO,16,Elderly,12,1,8.3,Meetings for education
+MADRE DE DIOS,17,Elderly,15,15,100,Meetings for education
+MOQUEGUA,18,Elderly,1,1,100,Meetings for education
+PASCO,19,Elderly,9,1,11.1,Meetings for education
+PIURA,20,Elderly,7,2,28.6,Meetings for education
+PUNO,21,Elderly,17,1,5.9,Meetings for education
+SAN MARTIN,22,Elderly,2,2,100,Meetings for education
+TACNA,23,Elderly,17,17,100,Meetings for education
+TUMBES,24,Elderly,5,1,20,Meetings for education
+UCAYALI,25,Elderly,3,3,100,Meetings for education
+AMAZONAS,1,Elderly,4,1,25,Dialogues for education
+ANCASH,2,Elderly,1,1,100,Dialogues for education
+APURIMAC,3,Elderly,6,2,33.3,Dialogues for education
+AREQUIPA,4,Elderly,9,4,44.4,Dialogues for education
+AYACUCHO,5,Elderly,8,1,12.5,Dialogues for education
+CAJAMARCA,6,Elderly,2,2,100,Dialogues for education
+CALLAO,7,Elderly,3,2,66.7,Dialogues for education
+CUSCO,8,Elderly,1,1,100,Dialogues for education
+HUANCAVELICA,9,Elderly,7,1,14.3,Dialogues for education
+HUANUCO,10,Elderly,7,4,57.1,Dialogues for education
+ICA,11,Elderly,1,1,100,Dialogues for education
+JUNIN,12,Elderly,9,9,100,Dialogues for education
+LA LIBERTAD,13,Elderly,1,1,100,Dialogues for education
+LAMBAYEQUE,14,Elderly,9,2,22.2,Dialogues for education
+LIMA,15,Elderly,4,3,75,Dialogues for education
+LORETO,16,Elderly,3,3,100,Dialogues for education
+MADRE DE DIOS,17,Elderly,3,3,100,Dialogues for education
+MOQUEGUA,18,Elderly,2,1,50,Dialogues for education
+PASCO,19,Elderly,8,3,37.5,Dialogues for education
+PIURA,20,Elderly,8,5,62.5,Dialogues for education
+PUNO,21,Elderly,7,5,71.4,Dialogues for education
+SAN MARTIN,22,Elderly,7,2,28.6,Dialogues for education
+TACNA,23,Elderly,5,3,60,Dialogues for education
+TUMBES,24,Elderly,4,2,50,Dialogues for education
+UCAYALI,25,Elderly,5,2,40,Dialogues for education
+AMAZONAS,1,Elderly,103,20,19.4,Citizen survey
+ANCASH,2,Elderly,305,185,60.7,Citizen survey
+APURIMAC,3,Elderly,104,26,25,Citizen survey
+AREQUIPA,4,Elderly,34,31,91.2,Citizen survey
+AYACUCHO,5,Elderly,253,242,95.7,Citizen survey
+CAJAMARCA,6,Elderly,345,154,44.6,Citizen survey
+CALLAO,7,Elderly,215,187,87,Citizen survey
+CUSCO,8,Elderly,325,317,97.5,Citizen survey
+HUANCAVELICA,9,Elderly,150,70,46.7,Citizen survey
+HUANUCO,10,Elderly,408,47,11.5,Citizen survey
+ICA,11,Elderly,420,88,21,Citizen survey
+JUNIN,12,Elderly,470,128,27.2,Citizen survey
+LA LIBERTAD,13,Elderly,275,124,45.1,Citizen survey
+LAMBAYEQUE,14,Elderly,192,161,83.9,Citizen survey
+LIMA,15,Elderly,124,78,62.9,Citizen survey
+LORETO,16,Elderly,105,66,62.9,Citizen survey
+MADRE DE DIOS,17,Elderly,94,22,23.4,Citizen survey
+MOQUEGUA,18,Elderly,426,246,57.7,Citizen survey
+PASCO,19,Elderly,343,242,70.6,Citizen survey
+PIURA,20,Elderly,211,22,10.4,Citizen survey
+PUNO,21,Elderly,293,266,90.8,Citizen survey
+SAN MARTIN,22,Elderly,378,2,0.5,Citizen survey
+TACNA,23,Elderly,426,151,35.4,Citizen survey
+TUMBES,24,Elderly,331,264,79.8,Citizen survey
+UCAYALI,25,Elderly,286,249,87.1,Citizen survey
